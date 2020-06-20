@@ -1,2 +1,2 @@
 # Denc
-Denc is a decrypting-encrypting-sharding-retrieving tool coded in NodeJS with a simple usage.
+Denc is a decrypting-encrypting-sharding-retrieving tool coded in NodeJS easy to use.
