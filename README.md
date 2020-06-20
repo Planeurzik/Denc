@@ -2,7 +2,7 @@
 Denc is a decrypting-encrypting-sharding-retrieving tool coded in NodeJS easy to use.
 
 # Install
-Clone the git and type ```npm install in the directory
+Clone the git and type `npm install` in the directory
 
 # Usage
 Help examples : 
